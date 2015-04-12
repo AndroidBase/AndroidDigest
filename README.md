@@ -17,6 +17,11 @@
 > 1. 订阅
 
 ##Screenshot
+
+[https://github.com/AndroidBase/AndroidDigest/blob/master/gancai.gif](https://github.com/AndroidBase/AndroidDigest/blob/master/gancai.gif)
+
+----------
+
 ![app-0.2-screenshot](https://raw.githubusercontent.com/openproject/AndroidDigest/master/release/screenshot-0.2.png)
 
 ##Demo
