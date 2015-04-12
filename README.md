@@ -18,7 +18,7 @@
 
 ##Screenshot
 
-[https://github.com/AndroidBase/AndroidDigest/blob/master/gancai.gif](https://github.com/AndroidBase/AndroidDigest/blob/master/gancai.gif)
+![](https://github.com/AndroidBase/AndroidDigest/blob/master/gancai.gif)
 
 ----------
 
